@@ -8,7 +8,7 @@ I’m Aravind, AI Engineer at Actalyst (6 years in applied AI + backend), focuse
 
 - Retrieval quality (indexing strategies, reranking, evals)
 - Agent reliability (stateful planners, tool orchestration)
-- Automated Intelligent system for insights on data
+- Automated Intelligent systems for insights on data
 
 <!--
 Optional: uncomment if you like these cards (they use third-party services)
