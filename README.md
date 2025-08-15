@@ -1,16 +1,18 @@
 ## Hi there 👋
 
+## About me
+
+I’m Aravind, AI Engineer at Actalyst (6 years in applied AI + backend), focused on retrieval, agents, and deploying agents for automating workflows.Before Actalyst, I led teams on pricing models at PwC and built optimization models for manufacturing process at Aditya Birla Group. I write about what I’m learning at **[thoughts.bitsnbytes.in](https://thoughts.bitsnbytes.in/)**.
+
+### Currently exploring
+
+- Retrieval quality (indexing strategies, reranking, evals)
+- Agent reliability (stateful planners, tool orchestration)
+- Automated Intelligent system for insights on data
+
 <!--
-**Aravgit/Aravgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Optional: uncomment if you like these cards (they use third-party services)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Aravind's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aravgit&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravgit&layout=compact)
 -->
