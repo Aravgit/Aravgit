@@ -2,7 +2,7 @@
 
 ## About me
 
-I’m Aravind, AI Engineer at Actalyst (6 years in applied AI + backend), focused on retrieval, agents, and deploying agents for automating workflows.Before Actalyst, I led teams on pricing models at PwC and built optimization models for manufacturing process at Aditya Birla Group. I write about what I’m learning at **[thoughts.bitsnbytes.in](https://thoughts.bitsnbytes.in/)**.
+I’m Aravind, AI Engineer at Actalyst (6 plus years in applied AI + backend), focused on retrieval, agents, and deploying agents for automating workflows.Before Actalyst, I led teams on pricing models at PwC and built optimization models for manufacturing process at Aditya Birla Group. I write about what I’m learning at **[thoughts.bitsnbytes.in](https://thoughts.bitsnbytes.in/)**.
 
 ### Currently exploring
 
