@@ -12,7 +12,7 @@ I’m Aravind, AI Engineer at Actalyst (6 plus years in applied AI + backend), f
 
 ### My Personal projects 
 - Probabalistic model to forecast compute availability and cost/gpu-hr in-case of world events (eg: Iran War) **[compute-supplychain](https://compute-supplychain.vercel.app/)**
-- Fun Valentine Idea to give a unique suprise to a special one **[Valentine Fun](https://valentine-fun-sand.vercel.app/)*8
+- Fun Valentine Idea to give a unique suprise to a special one **[Valentine Fun](https://valentine-fun-sand.vercel.app/)**
 - Personal Workout + Calorie + Mood tracker with voice and text input, and Daily plan to simplify my life tracking (Looking to collaborate **[track.shodha.ai](https://track.shodha.ai)** )
 - Data Analyst - upload your Excel files and chat with agent to reliably get answers from millions of rows **[Data Analyst](https://github.com/Aravgit/data-analyst)**
   
