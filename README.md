@@ -7,8 +7,14 @@ I’m Aravind, AI Engineer at Actalyst (6 plus years in applied AI + backend), f
 ### Currently exploring
 
 - Retrieval quality (indexing strategies, reranking, evals)
-- Agent reliability (stateful planners, tool orchestration)
+- Agent reliability (stateful planners, tool orchestration, harness engg)
 - Automated Intelligent systems for insights on data
+
+### My Personal projects 
+- Probabalistic model to forecast compute availability and cost/gpu-hr in-case of world events (eg: Iran War)
+- Fun Valentine Idea to give a unique suprise to a special one
+- Personal Workout + Calorie + Mood tracker with voice and text input, and Daily plan to simplify my life tracking (Looking to collaborate **[track.shodha.ai](https://track.shodha.ai)** )
+  
 
 <!--
 Optional: uncomment if you like these cards (they use third-party services)
